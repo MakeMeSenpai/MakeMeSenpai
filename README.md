@@ -1,4 +1,4 @@
-<h1>&nbsp;Hi! I'm Anthony (aka Ant 🐜). &emsp; &emsp; &emsp; <img src="https://www.codewars.com/users/MakeMeSenpai/badges/large"> </h1>
+<h1>&nbsp;Hi! I'm Anthony (aka Ant 🐜). &emsp;&emsp;&emsp;<img src="https://www.codewars.com/users/MakeMeSenpai/badges/large"> </h1>
 <h2>Check out my pinned projects, and I hope you can have fun searching threw my repo.</h2>
 <details>
   <summaryGithub Stats</summary>
