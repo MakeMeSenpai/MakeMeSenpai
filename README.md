@@ -1,5 +1,6 @@
 <h1>&nbsp;Hi! I'm Anthony (aka Ant 🐜). &emsp;&emsp;<a href="https://codewars.com"><img src="https://www.codewars.com/users/MakeMeSenpai/badges/large"></a></h1>
-<h2>Check out my pinned projects, and I hope you can have fun searching threw my repo.</h2>
+<h2>Check out my pinned projects, and star what you like! </h2>
+<h3>I'm always wanting to improve so any feedback would be greatly appriciated.</h3>
 <details>
   <summary>Github Stats</summary>
   <br>
